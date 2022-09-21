@@ -18,7 +18,8 @@
 - [VSCode](https://code.visualstudio.com/)
 - [Storybook](https://storybook.js.org/)
 - [Tailwindcss](https://tailwindcss.com/)
-<!--
+- [Vite](https://vitejs.dev)
+
 **manolobrown/manolobrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
