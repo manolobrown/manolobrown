@@ -17,6 +17,7 @@
 - [Sass](https://sass-lang.com/)
 - [VSCode](https://code.visualstudio.com/)
 - [Storybook](https://storybook.js.org/)
+- [Tailwindcss](https://tailwindcss.com/)
 <!--
 **manolobrown/manolobrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
